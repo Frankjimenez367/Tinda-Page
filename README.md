@@ -1,2 +1,2 @@
-# Wurth-Page
-Wurth Page repository
+# Tienda-Page
+Tienda Page repository
